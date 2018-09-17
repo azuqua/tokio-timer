@@ -1,3 +1,7 @@
+# Notice
+
+This is a patched fork of the original tokio-timer crate to handle [issue 36](https://github.com/tokio-rs/tokio-timer/issues/36). It has been pushed to crates.io so that it can be used in other open source crates. No further development is expected.
+
 # Development has moved
 
 This repository is scheduled for deprecation in favor of [tokio](http://github.com/tokio-rs/tokio).
