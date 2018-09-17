@@ -13,7 +13,7 @@
 //! Here is a simple example of how to use the timer.
 //!
 //! ```rust
-//! extern crate tokio_timer;
+//! extern crate tokio_timer_patched as tokio_timer;
 //! extern crate futures;
 //!
 //! use tokio_timer::*;

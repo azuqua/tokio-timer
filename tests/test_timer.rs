@@ -1,5 +1,5 @@
 extern crate futures;
-extern crate tokio_timer as timer;
+extern crate tokio_timer_patched as timer;
 
 mod support;
 
